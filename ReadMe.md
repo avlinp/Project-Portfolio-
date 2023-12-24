@@ -4,3 +4,8 @@ Welcome to my, Avlin Prosa’s, GitHub repository showcasing a diverse collectio
 
 These projects reflect a fusion of academic rigor, personal exploration, and practical application, demonstrating my commitment to continuous learning and passion for technology and Finance. 
 
+| Project Name | Description | Download Link |
+| ------------ | ----------- | ------------- |
+| Project 1    | Description of Project 1 | [Download](link-to-download) |
+| Project 2    | Description of Project 2 | [Download](link-to-download) |
+| Project 3    | Description of Project 3 | [Download](link-to-download) |
