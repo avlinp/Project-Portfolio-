@@ -4,8 +4,13 @@ Welcome to my, Avlin Prosa’s, GitHub repository showcasing a diverse collectio
 
 These projects reflect a fusion of academic rigor, personal exploration, and practical application, demonstrating my commitment to continuous learning and passion for technology and Finance. 
 
-| Project Name | Description | Download Link |
-| ------------ | ----------- | ------------- |
-| Project 1    | Description of Project 1 | [Download](link-to-download) |
-| Project 2    | Description of Project 2 | [Download](link-to-download) |
-| Project 3    | Description of Project 3 | [Download](link-to-download) |
+To view each project, please see the link name and corresponding file located under the main branch. 
+
+| Project Name | Description/Skills | Link Name   |
+| ------------ | ----------- | ----------- |
+| Introduction to Data Science Final Project | Demonstration of supervised, unsupervised and dimensionality reduction models (Python, Machine Learning)| 
+| Introduction to Data Science - Analysis #4 | Description of Project 3 |  |
+| Introduction to Data Science - Analysis #3 | Description of Project 3 |  |
+| Intermediate Financial Management Research Paper | Group analysis of Microsoft's Strategies relating to executive compensation, mergers and acquisitions and risks |
+| "Bar Fight" Old School Style Unity Game | (C#, Unity, OOP) |  |
+| Tic Tac Toe Unity Game (2 player, vs. Smart Computer Player, vs. Normal Computer Player)  | (C#, Unity, OOP) |  |
